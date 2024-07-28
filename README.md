@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
