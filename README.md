@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
