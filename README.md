@@ -38,4 +38,12 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
