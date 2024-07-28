@@ -4,7 +4,7 @@ class Solution {
         int m=matrix.length;
         for(int i=0;i<m;i++){
             for(int j=0;j<m;j++){
-                newMatrix[i][m-1-j]=matrix[j][i];
+                newMatrix[j][m-1-i]=matrix[i][j];
             }
         }
         for(int i=0;i<m;i++){
