@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0053-maximum-subarray) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -79,10 +81,19 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
