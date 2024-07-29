@@ -87,6 +87,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
