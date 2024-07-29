@@ -76,4 +76,8 @@
 | [0011-container-with-most-water](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
