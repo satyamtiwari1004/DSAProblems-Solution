@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0238-product-of-array-except-self) |
+| [1127-last-stone-weight](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
