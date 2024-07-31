@@ -35,6 +35,7 @@
 | [0053-maximum-subarray](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,4 +135,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0695-max-area-of-island) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
