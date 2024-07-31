@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0238-product-of-array-except-self) |
+| [0695-max-area-of-island](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0695-max-area-of-island) |
 | [1127-last-stone-weight](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@
 | [0048-rotate-image](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0695-max-area-of-island) |
 ## Sorting
 |  |
 | ------- |
@@ -119,12 +121,15 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/satyamtiwari1004/DSAProblems-Solution/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
